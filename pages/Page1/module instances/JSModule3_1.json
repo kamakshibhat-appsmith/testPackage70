@@ -9,8 +9,16 @@
     "pageId": "Page1",
     "inputs": {},
     "jsonPathKeys": [],
-    "isValid": true,
-    "invalids": [],
+    "isValid": false,
+    "invalids": [
+      "Module instance does not have a valid module reference in the workspace. Please import package \"New Untitled Package 1 W. publish\" to your current workspace to resolve this issue.",
+      "Module instance does not have a valid module reference in the workspace. Please update the existing package \"New Untitled Package 1 W. publish\" with module JSModule3 to resolve this issue."
+    ],
+    "invalidState": {
+      "packageName": "New Untitled Package 1 W. publish",
+      "moduleName": "JSModule3",
+      "originPackageId": "65f9bcdefa1b945422c171d3"
+    },
     "userPermissions": []
   },
   "id": "Page1_JSModule3_1",
