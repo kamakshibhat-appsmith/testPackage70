@@ -11,11 +11,13 @@
     "jsonPathKeys": [],
     "isValid": false,
     "invalids": [
-      "Module instance does not have a valid module reference in the workspace. Please import package \"New Untitled Package 1 W. publish\" to your current workspace to resolve this issue."
+      "Module instance does not have a valid module reference in the workspace. Please import package \"New Untitled Package 1 W. publish\" to your current workspace to resolve this issue.",
+      "Module instance does not have a valid module reference in the workspace. Please update the existing package \"New Untitled Package 1 W. publish\" with module JSModule3 to resolve this issue."
     ],
     "invalidState": {
       "packageName": "New Untitled Package 1 W. publish",
-      "moduleName": "JSModule3"
+      "moduleName": "JSModule3",
+      "originPackageId": "65f9bdfbfa1b945422c17272"
     },
     "userPermissions": []
   },
