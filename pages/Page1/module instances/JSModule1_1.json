@@ -1,19 +1,14 @@
 {
-  "packageUUID": "65f1a5a6eab674621f2500cc",
+  "gitSyncId": "65f1a618eab674621f250109_65f1a624eab674621f25011a",
+  "id": "Page1_JSModule1_1",
   "moduleUUID": "65f1a5bfeab674621f2500da",
+  "packageUUID": "65f1a5a6eab674621f2500cc",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.13",
-    "name": "JSModule1_1",
     "contextType": "PAGE",
-    "pageId": "Page1",
     "inputs": {},
-    "jsonPathKeys": [],
-    "isValid": true,
-    "invalids": [],
-    "userPermissions": []
-  },
-  "id": "Page1_JSModule1_1",
-  "deleted": false,
-  "gitSyncId": "65f1a618eab674621f250109_65f1a624eab674621f25011a"
+    "name": "JSModule1_1",
+    "pageId": "Page1",
+    "version": "0.0.13"
+  }
 }
